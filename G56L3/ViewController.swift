@@ -24,5 +24,9 @@ class ViewController: UIViewController {
         print("Hello")
     }
 
+    func methodFive() -> Int {
+        return 5
+    }
+
 }
 
